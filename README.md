@@ -9,6 +9,7 @@ Yinas is a meticulously crafted WordPress blog theme that offers unparalleled cu
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
+- [Theme Showcase](#theme-showcase)
 - [Contributing](#contributing)
 
 ## Installation
