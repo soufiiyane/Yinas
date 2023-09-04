@@ -52,9 +52,9 @@ Here's how the Yinas theme looks in action:
 
 <!-- Add images side by side -->
 <div align="center">
-    <img src="assets/img/theme-showcase/Hero.png" alt="Hero Section" width="300" height="300px"/>
-    <img src="assets/img/theme-showcase/Main.png" alt="Main Section" width="300" height="300px" />
-    <img src="assets/img/theme-showcase/Footer.png" alt="Footer Section" width="300"  height="300px"/>
+    <img src="assets/img/theme-showcase/Hero.png" alt="Hero Section" width="300" height="250px"/>
+    <img src="assets/img/theme-showcase/Main.png" alt="Main Section" width="300" height="250px" />
+    <img src="assets/img/theme-showcase/Footer.png" alt="Footer Section" width="300"  height="250px"/>
 </div>
 
 ## Contributing
