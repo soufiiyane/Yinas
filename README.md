@@ -2,8 +2,6 @@
 
 Yinas is a meticulously crafted WordPress blog theme that offers unparalleled customization options with ACF (Advanced Custom Fields). With its flexible design, admins can easily manipulate the layout, choose what content to display or hide, and create truly unique and personalized websites. Empowering bloggers to reflect their individuality.
 
-![Yinas Theme Screenshot](screenshot.png)
-
 ## Table of Contents
 
 - [Installation](#installation)
@@ -48,6 +46,16 @@ Yinas is highly customizable to suit your individual needs. You can customize va
 - **Layout**: Modify the layout of your blog pages to showcase your content in the way you prefer.
 
 - **Header and Footer**: Customize the header and footer sections to include your logo, navigation, and other relevant information.
+
+## Theme Showcase
+Here's how the Yinas theme looks in action:
+
+<!-- Add images side by side -->
+<div align="center">
+    <img src="assets/img/theme-showcase/Hero.png" alt="Hero Section" width="300" height="300px"/>
+    <img src="assets/img/theme-showcase/Main.png" alt="Main Section" width="300" height="300px" />
+    <img src="assets/img/theme-showcase/Footer.png" alt="Footer Section" width="300"  height="300px"/>
+</div>
 
 ## Contributing
 
